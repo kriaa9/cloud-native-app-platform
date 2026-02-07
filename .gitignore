@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.tfstate
+*.tfstate.backup
+*.tfvars
+.terraform/
+dist/
+.DS_Store
+.vscode/
+.idea/
+*.log
