@@ -6,6 +6,7 @@ Welcome to the official documentation for the **Cloud Native App Platform**. Thi
 
 ### 🚀 Getting Started
 
+- **[Concepts: The Cloud, Demystified](CONCEPTS.md)**: A beginner's guide to the project.
 - **[Setup Guide](SETUP.md)**: Steps to install prerequisites and deploy the platform.
 - **[User Guide](USER_GUIDE.md)**: How to use the platform for development.
 
